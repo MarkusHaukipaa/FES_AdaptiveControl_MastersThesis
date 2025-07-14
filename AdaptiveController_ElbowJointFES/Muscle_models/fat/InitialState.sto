@@ -1,0 +1,8 @@
+arm26_states
+version=1
+nRows=1
+nColumns=17
+inDegrees=no
+endheader
+time	/jointset/r_shoulder/r_shoulder_elev/value      /jointset/r_shoulder/r_shoulder_elev/speed      /jointset/r_elbow/r_elbow_flex/value      /jointset/r_elbow/r_elbow_flex/speed	/forceset/TRIlong/activation	/forceset/TRIlong/fiber_length	/forceset/TRIlat/activation	/forceset/TRIlat/fiber_length	/forceset/TRImed/activation	/forceset/TRImed/fiber_length	/forceset/BIClong/activation	/forceset/BIClong/fiber_length	/forceset/BICshort/activation	/forceset/BICshort/fiber_length	/forceset/BRA/activation	/forceset/BRA/fiber_length
+    0.00000000    -0.98004158    10.00198463    0.00000000    0.00000000    0.00000000    0.13996240    0.00000000    0.07435505    0.00000000    0.06937351    0.00000000    0.14263347    0.00000000    0.14159948    0.00000000    0.09101387
