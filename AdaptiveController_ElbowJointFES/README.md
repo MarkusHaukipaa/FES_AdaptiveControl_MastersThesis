@@ -46,7 +46,7 @@ Holds all nessesary for running the program
 
 ---
 
-### 📁 `ResultFile/`
+### 📁 `Result_Folder/`
 
 _Description:_  
 Stores output data generated from simulation runs.
@@ -69,8 +69,7 @@ _You're looking at it!
 
 More descriptive demands on needs can be found from the OpenSim's website.  
 Python 3.8 is needed for the Opensim 4.5 that we utilize. Main folder holds the main files. The Control_Panel functions as the main 
-control of the Simulator. There you may change the 
-models, trajectories and the controllers used. Run the Control_Panel to run 
+control of the Simulator. There you may change the models, trajectories and the controllers used. Run the Control_Panel to run 
 the program.
 
 Simulator holds basic functionality. 
