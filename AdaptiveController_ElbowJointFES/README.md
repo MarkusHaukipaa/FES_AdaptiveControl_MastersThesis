@@ -50,6 +50,7 @@ Holds all nessesary for running the program
 
 _Description:_  
 Stores output data generated from simulation runs.
+
 ---
 
 ### 📄 `.gitignore`
