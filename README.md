@@ -29,14 +29,14 @@ data points._
 
 ---
 
-### 📁 `model/`
+### 📁 `Muscle_models/`
 
 _Description:_  
 Different model information from OpenSim. In the simulation default is used.
 
 ---
 
-### 📁 `program/`
+### 📁 `Program/`
 
 _Description:_  
 Holds all nessesary for running the program
