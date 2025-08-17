@@ -5,7 +5,7 @@
 Yokoya))  
 **Email:** _markus.haukipaa@tuni.fi_  
 **School / Affiliation:**  
-_**T**ohoku University Biomedical Engineering(Japan),  
+_**T**ohoku University Biomedical Engineering (Japan),  
 **T**ampere University Biomedical Sciences and Engineering (Finland)_  
 **Master's Thesis**
 
