@@ -1,7 +1,7 @@
 
 # ADAPTIVE FEEDBACK CONTROLLER FOR FUNCTIONAL ELECTRICAL STIMULATION CONTROL OF THE ELBOW JOINT 
 
-**Creator:** _Markus Haukipää_,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Code template: 横谷隆佑, (Ryusuke 
+**Creator:** _Markus Haukipää_,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Recruitment curve establishment and raw code template) : 横谷隆佑, (Ryusuke 
 Yokoya))  
 **Email:** _markus.haukipaa@tuni.fi_  
 **School / Affiliation:**  
